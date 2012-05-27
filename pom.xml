@@ -8,7 +8,7 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>Insel Password Generator Test</name>
+	<name>Insel Password Generator</name>
 	<url>http://www.inseltroll.de</url>
 
 	<properties>
